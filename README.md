@@ -3,8 +3,6 @@
 **Passionate Engineering Student** | **Digital Communications Enthusiast**  | **Digital Design Enthusiast**
 📍 Cairo, Egypt | 🎓 **Faculty of Engineering, Cairo University**  
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmadKhattab-blue)](www.linkedin.com/in/ahmad-khattab-378284256)  
-[![Email](https://img.shields.io/badge/Email-ahmadkhattab.w%40gmail.com-red)](mailto:ahmadkhattab.w@gmail.com)
 
 ## 🚀 About Me
 
@@ -57,6 +55,6 @@ I'm a driven **Electronics and Electrical Communications** student at Cairo Univ
 
 ## 📫 Get in Touch!
 
-- 💼 [LinkedIn](www.linkedin.com/in/ahmad-khattab-378284256)  
-- 📧 [Email](mailto:ahmadkhattab.w@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmadKhattab-blue)](www.linkedin.com/in/ahmad-khattab-378284256)  
+[![Email](https://img.shields.io/badge/Email-ahmadkhattab.w%40gmail.com-red)](mailto:ahmadkhattab.w@gmail.com)
 
