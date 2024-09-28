@@ -48,7 +48,8 @@ I'm a driven **Electronics and Electrical Communications** student at Cairo Univ
 - **ICpedia ASIC Physical Design Internship** (Jul - Aug 2024)  
 - **Huawei 5G Course** at Huawei Egyptian Talents Academy (Jul - Aug 2024)  
 - **Digital IC Design Diploma** with Eng. Ali El-Temsah (Feb - Aug 2024)  
-- **Systel Telecom Training** in Smart Village (Jun - Jul 2024)  
+- **Systel Telecom Training** in Smart Village (Jun - Jul 2024)
+- **Digital IC Design Diploma** with Eng. Kareem Waseem (Jun - Aug 2023)  
 - **Embedded Systems Diploma** with Eng. Mohamed Tarek (Jul - Oct 2022)
 
 ---
