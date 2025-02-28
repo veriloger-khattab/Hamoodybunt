@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Khattab 👋
+# Hi, I'm Ahmad Kamal 👋
 
 **Passionate Engineering Student** | **Digital Communications Enthusiast**  | **Digital Design Enthusiast**
 📍 Cairo, Egypt | 🎓 **Faculty of Engineering, Cairo University**  
