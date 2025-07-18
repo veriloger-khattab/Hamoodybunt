@@ -12,15 +12,16 @@ I'm a driven **Electronics and Electrical Communications** student at Cairo Univ
 
 ## 💼 Projects
 
+### 🔗 Digital IC Design and VLSI
+- **Verification of aligner module (in progress)** (SystemVerilog-UVM-Questasim)
+- **Physical Implementation of wbqspiflash Design** from RTL to GDSII (OpenLane)  
+- **SPI Slave with Single Port RAM** (Verilog-QuestaSim-Vivado)  
+- **Low Power Multi-Clock Configurable Processing System** (Synopsys ASIC Tools-Encounter)
+  
 ### 🔗 Digital and Analog Communications
 - **Interactive OFDM System Simulator** using MATLAB  
 - **Image Compression and Processing** with MATLAB  
 - **Super-heterodyne Receiver** simulating an analog communication system (MATLAB)
-
-### 🔗 Digital IC Design and VLSI
-- **Physical Implementation of wbqspiflash Design** from RTL to GDSII (OpenLane)  
-- **SPI Slave with Single Port RAM** (Verilog, QuestaSim, Vivado)  
-- **Low Power Multi-Clock Configurable Processing System** (Synopsys ASIC Tools, Encounter)
 
 ### 🔗 Embedded Systems Projects
 - **Door Locker Security System** using GPIO, Keypad, LCD, Timer, UART, I2C, EEPROM, and DC-Motor
@@ -36,14 +37,14 @@ I'm a driven **Electronics and Electrical Communications** student at Cairo Univ
 - **Concepts**: RTL Design, ASIC & FPGA Flow, O-RAN Standards, 5G Core & Architecture, STA, DFT Insertion, Formal Verification
 
 ### 🌟 Key Strengths
-- O-RAN Control, User, and Management Planes  
 - Efficient RTL Coding & Creating Testbenches  
 - Physical Design (RTL to GDSII) using Synopsys and OpenLane
+- O-RAN Control, User, and Management Planes  
 
 ---
 
 ## 🎓 Certifications & Training
-
+- **Modeling & Verifying a UCIe adapter[Sponsored by Si-Vision]** ( Oct 2024 - June 2025)
 - **Siemens 5G Professional Diploma** (Aug - Sep 2024)  
 - **ICpedia ASIC Physical Design Internship** (Jul - Aug 2024)  
 - **Huawei 5G Course** at Huawei Egyptian Talents Academy (Jul - Aug 2024)  
