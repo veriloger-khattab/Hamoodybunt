@@ -56,6 +56,6 @@ I'm a driven **Electronics and Electrical Communications** student at Cairo Univ
 
 ## 📫 Get in Touch!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Khattab-blue)](www.linkedin.com/in/veriloger)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmadKhattab-blue)](www.linkedin.com/in/veriloger)  
 [![Email](https://img.shields.io/badge/Email-ahmadkhattab.w%40gmail.com-red)](mailto:ahmadkhattab.w@gmail.com)
 
